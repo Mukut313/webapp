@@ -1,0 +1,3 @@
+<?php
+// webhook.php created
+?>

@@ -1,0 +1,3 @@
+<?php
+// checkout.php created
+?>
